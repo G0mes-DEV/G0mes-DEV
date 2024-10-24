@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G0mes-DEV
 - 👀 I’m interested in internship vacancy
-- 🌱 I’m currently learning the language Python
+- 🌱I am currently studying information systems
 - 📫 How to reach me +55 (73) 9 99134317 
 or by email kauanvasconcelos169@gmail.com
 
